@@ -1,3 +1,2 @@
 # demo
-Author KC
-                     K            C
+Author (kc)
